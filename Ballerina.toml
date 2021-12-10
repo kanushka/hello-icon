@@ -1,0 +1,9 @@
+[package]
+org = "kanushkagayan"
+name = "hello"
+version = "0.1.0"
+distribution = "slbeta6"
+icon = "kanushka-icon.png"
+
+[build-options]
+observabilityIncluded = true
